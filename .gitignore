@@ -1,0 +1,6 @@
+# Fichiers de configuration système
+.DS_Store
+Thumbs.db
+
+# Dossier contenant des clés API
+secrets/ 
